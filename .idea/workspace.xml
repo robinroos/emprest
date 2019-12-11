@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../is2/director-conduct-reporting" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../is3/director-conduct-reporting" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../is4/director-conduct-reporting" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../is5/director-conduct-reporting" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../is6/Spring-Boot-Admin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../is6/director-conduct-reporting" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../is7/director-conduct-reporting" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../is8/cloud-config" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../is8/director-conduct-reporting" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../is9/cloud-config-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../is9/hazelcast-docker-swarm-discovery-spi" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../is9/insolvency-practitioner-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../is9/springboot-admin-service" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Upk4ydhRTqekbxv2drEt5kGkAd" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmprestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="emprest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uk.co.suboctave.emprest.EmprestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../coursera/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../coursera/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../mixed-persistence-java-sbt" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+</project>
